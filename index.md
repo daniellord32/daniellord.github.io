@@ -2,8 +2,6 @@
 
 Welcome to my giyhub page, you can get a description of all my projects that I am working on below. Feel free to contribute or improve my code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Projects
 
 ### Beaver Scouts registration
@@ -12,7 +10,8 @@ This project started it's life as a Foundation degree final year project. The sy
 - add a new user to the system
 - track donations made to the organisation
 - track attendance of beavers week on week
-[Link](https://github.com/daniellord32/Beavers)
+
+[Beavers Repository](https://github.com/daniellord32/Beavers)
 
 ### Shorts 360 for Flight simulator
 
@@ -20,4 +19,4 @@ This project was created as my final year project at univercity. The project is 
 
 Along with this is source files of the aircrafts guages that would take data from the simulator and display to the user. The level of detail that could be obtained is replicating conditions such as oil leaks, or engine fires. All the gauges are written in C/C++ and was compiled using Visual studio 2015.
 
-[Link](https://github.com/daniellord32/shorts360)
+[Shorts 360 Repository](https://github.com/daniellord32/shorts360)
