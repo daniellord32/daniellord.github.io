@@ -1,6 +1,6 @@
 ## Welcome
 
-Welcome to my giyhub page, 
+Welcome to my github page, 
 
 I have been developing professionally for three years, majority of the work I have done before I went to university was small websites that looked aweful but performed well. (You gotta start somewhere you know).
 
