@@ -1,6 +1,6 @@
 layout: page
 title: "react-data-table-componant"
-permalink: /tutorial/react-data-table
+permalink: /tutorial/react-data-table/
 
 ## React-Data-Table-Component Tutorial
 
