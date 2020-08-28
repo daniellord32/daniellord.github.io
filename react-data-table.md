@@ -6,7 +6,7 @@ permalink: /tutorial/react-data-table
 
 welcome to my frirst ever tutorial that I have written :-/. So if you have come this far then you have already got the jist of what I have been up to.
 
-###learning to use the component
+### learning to use the component
 
 the story book on this repository is pretty good, but as I am still learning there was things I struggled to get my head around and spent too long (in my opinion to figure out)
 but hey thats just the way I do things.
