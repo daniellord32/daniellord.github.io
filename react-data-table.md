@@ -31,5 +31,3 @@ useEffect(()=> {
         });
     },[]);
     ```
-    As you can see depending on the response determines what we do with that data, we set some states that the package requires in order for the table to actually work. the most 
-    important is the setData state which is passed to the correct option that will be shown later.
