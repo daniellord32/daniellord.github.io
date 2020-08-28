@@ -16,7 +16,7 @@ You can get a description of all my projects that I am working on below. Feel fr
 
 recenetly for a work project I am starting to move the back end away from laravel blade and more to react. Instead of rebuilding the entire backend ui from scratch I am doing bits and bobs here and there as most people are aware of good ole time constraints. So i built a map component which works really well and is no longer a blade with tons of javascript and jquery. My next task was to decide what I am going ot do with datatables.net. I found a package called react-data-table-componant located [here](https://github.com/jbetancur/react-data-table-component) that ticks all the requirements that we need. so I set out work to include this into our project. Now I am not the best developer out there and my colleagues are miles ahead of me lol, but I learnt some stuff from building this which I thought might be a good first tutorial for me to do. you can access the tutorial by visiting the link below.
 
-[react-data-table-component tutorial]()
+[react-data-table-component tutorial](https://daniellord32.github.io/daniellord.github.io/react-data-table)
 
 ### RentalHub
 
